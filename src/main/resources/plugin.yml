@@ -1,0 +1,8 @@
+main: me.xofu.coordinatehome.CoordinateHome
+name: CoordinateHome
+version: 1.2
+
+commands:
+  sethome:
+  delhome:
+  home:

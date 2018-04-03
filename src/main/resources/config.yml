@@ -1,0 +1,8 @@
+#MESSAGES
+
+NOT_A_PLAYER: '&cYou need to be a player to execute this command'
+NO_PERMISSION: '&cYou do not have permission to execute this command'
+NO_HOME: '&cYou do not have a home'
+HOME: '&aYour home is located in the world &6%world% &aat X:&6%x% &aY:&6%y% &aZ:&6%z%'
+DELETED_HOME: '&aYou have deleted your home'
+HOME_SET: '&aYour home has been set in the world &6%world% &aat X:&6%x% &aY:&6%y% &aZ:&6%z%'
